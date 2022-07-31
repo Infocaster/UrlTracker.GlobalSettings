@@ -1,0 +1,18 @@
+{
+    "GlobalBlocklist": [
+      "wp-admin",
+      "/admin",
+      "ads.txt",
+      "wp-includes",
+      "/wp",
+      "/wordpress",
+      "adminer",
+      "wp-plain",
+      "fileauth.txt",
+      "wp-content",
+      ".php",
+      "database.yml",
+      "secrets.yml",
+      ".env"
+    ]
+}

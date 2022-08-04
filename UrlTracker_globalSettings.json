@@ -13,6 +13,10 @@
       ".php",
       "database.yml",
       "secrets.yml",
-      ".env"
+      ".env",
+      "/null",
+      "/cgialfa",
+      "files/alfacgiapi",
+      "files/alfa_data"
     ]
 }

@@ -19,5 +19,6 @@
       "files/alfacgiapi",
       "files/alfa_data",
       ".well-known",
+      "ALFA_DATA",
     ]
 }

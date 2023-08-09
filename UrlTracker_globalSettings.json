@@ -17,6 +17,7 @@
       "/null",
       "/cgialfa",
       "files/alfacgiapi",
-      "files/alfa_data"
+      "files/alfa_data",
+      ".well-known",
     ]
 }

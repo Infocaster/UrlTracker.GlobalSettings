@@ -22,6 +22,7 @@
       "ALFA_DATA",
       "phpunit",
       "thinkphp",
-      "wp-login"  
+      "wp-login",
+      "App_Plugins"  
     ]
 }

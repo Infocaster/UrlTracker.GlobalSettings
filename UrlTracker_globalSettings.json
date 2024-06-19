@@ -20,5 +20,8 @@
       "files/alfa_data",
       ".well-known",
       "ALFA_DATA",
+      "phpunit",
+      "thinkphp",
+      "wp-login"  
     ]
 }

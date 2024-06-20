@@ -23,6 +23,7 @@
       "phpunit",
       "thinkphp",
       "wp-login",
-      "App_Plugins"  
+      "App_Plugins",
+      ".git"
     ]
 }
